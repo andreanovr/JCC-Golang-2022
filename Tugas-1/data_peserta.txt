@@ -1,0 +1,6 @@
+Data Peserta Jabar Coding Camp Golang
+1. Nama: Andreanov Ridhovan
+2. Email: andreanovr@gmail.com
+3. Sistem Operasi yang digunakan: Windows 10
+4. Akun Gitlab/Github: andreanovr (https://github.com/andreanovr)
+5. Akun Telegram: 082299070001
